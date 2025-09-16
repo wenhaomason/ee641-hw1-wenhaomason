@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Remove unnecesary files
-.DS_Store
+*.DS_Store
