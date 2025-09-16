@@ -1,0 +1,25 @@
+{
+  "mAP": 0.650426930550373,
+  "class_APs": {
+    "circle": 0.8099935163151135,
+    "square": 0.5639835433526472,
+    "triangle": 0.5773037319833582
+  },
+  "scale_analysis": {
+    "scale1": {
+      "small": 224,
+      "medium": 0,
+      "large": 0
+    },
+    "scale2": {
+      "small": 0,
+      "medium": 56,
+      "large": 0
+    },
+    "scale3": {
+      "small": 0,
+      "medium": 0,
+      "large": 411
+    }
+  }
+}
