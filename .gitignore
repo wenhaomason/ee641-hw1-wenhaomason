@@ -11,3 +11,6 @@ wheels/
 
 # Remove unnecesary files
 *.DS_Store
+report.md
+datasets/
+.gitignore
