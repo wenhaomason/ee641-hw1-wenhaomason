@@ -9,5 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-# Remove unncesary files
+# Remove unnecesary files
 .DS_Store
